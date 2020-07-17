@@ -1,7 +1,12 @@
 ### Welcome to my `secret lab` :wave:
 
+<br>
+<br>
 
-&emsp; &ensp;  <img align=center src="https://enterprise.github.com/assets/spinners/octocat-spinner-128-26a44333917854c6794d55eac947b1277fced54f1f60c5df5d93431db8753bc5.gif" width="40" height="40"/>
+&emsp; &ensp;  <img align=center src="https://enterprise.github.com/assets/spinners/octocat-spinner-128-26a44333917854c6794d55eac947b1277fced54f1f60c5df5d93431db8753bc5.gif" width="40" height="40"/>   
+&emsp; &ensp; Loading
+<br>
+<br>
 
 - :vampire_woman: &nbsp; I’m Yulei
 - :star2: &nbsp; Pronouns: [she/her](https://pronoun.is/she)
