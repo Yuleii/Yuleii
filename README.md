@@ -1,14 +1,11 @@
 ### Welcome to my `secret lab` :wave:
 
-&emsp; &ensp;  <img align=center src="https://github.githubassets.com/images/mona-whisper.gif"/>   
-
-<br>
-
 - :vampire_woman: &nbsp; I’m Yulei
 - :star2: &nbsp; Pronouns: [she/her](https://pronoun.is/she)
 - ⌨️  &nbsp;  I use: `python`, `stata`, `matlab`
 - :writing_hand: &nbsp; I take notes and write stuffs at [my blog](https://yuleii.github.io/)
 
+<img align=right src='https://github.githubassets.com/images/mona-whisper.gif'/>
 
 <!--
 **Yuleii/Yuleii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
