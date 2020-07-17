@@ -1,4 +1,4 @@
-## Welcome to my `secret lab` :wave:
+## Welcome to my `secret lab` 
 
 <img align=right src='https://github.com/Yuleii/Yuleii.github.io/raw/master/pictures/piexel_cat%20.png'>
 
