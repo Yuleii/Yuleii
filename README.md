@@ -1,7 +1,5 @@
 ### Welcome to my `secret lab` :wave:
 
-<br>
-
 &emsp; &ensp;  <img align=center src="https://github.githubassets.com/images/mona-whisper.gif"/>   
 
 <br>
