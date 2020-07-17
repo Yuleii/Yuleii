@@ -2,10 +2,10 @@
 
 <img align=right src='https://github.com/Yuleii/Yuleii.github.io/raw/master/pictures/piexel_cat%20.png'>
 
-- :vampire_woman: &nbsp; I’m Yulei
-- :star2: &nbsp; Pronouns: [she/her](https://pronoun.is/she)
-- :keyboard: &nbsp; I use: `python`, `stata`, `matlab`
-- :writing_hand: &nbsp; I take notes and write stuffs at [my blog](https://yuleii.github.io/)
+- :vampire_woman: I’m Yulei
+- :star2: Pronouns: [she/her](https://pronoun.is/she)
+- :keyboard: I use: `python`, `stata`, `matlab`
+- :writing_hand: I take notes and write stuffs at [my blog](https://yuleii.github.io/)
 
 
 <!--
