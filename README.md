@@ -1,6 +1,6 @@
 ## Welcome to my `secret lab` :wave:
 
-<img align=right src='https://github.com/Yuleii/Yuleii.github.io/blob/master/pictures/blob_2.PNG' width="90" height="90">
+<img align=right src='https://github.com/Yuleii/Yuleii.github.io/raw/master/pictures/piexel_cat%20.png'>
 
 - :vampire_woman: &nbsp; I’m Yulei
 - :star2: &nbsp; Pronouns: [she/her](https://pronoun.is/she)
