@@ -1,5 +1,6 @@
 ## Welcome to my `secret lab` :wave:
 
+<!--
 <img align=right src='https://github.com/Yuleii/Yuleii.github.io/raw/master/pictures/piexel_cat%20.png'>
 
 - 👩‍💻 I’m Yulei
@@ -7,7 +8,7 @@
 - :writing_hand: I take notes and write stuff at [my blog](https://yuleii.github.io/)
 
 
-<!--
+
 **Yuleii/Yuleii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
